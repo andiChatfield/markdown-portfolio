@@ -1,1 +1,2 @@
-https://github.com/andiChatfield
+![link to GitHub profile](https://github.com/andiChatfield)
+
